@@ -19,3 +19,7 @@ Key Features:
 By combining multiple AI capabilities, this system simplifies podcast production for educators, reduces resource requirements, and fosters personalized, scalable, and accessible learning experiences.
 
 <img width="1853" height="881" alt="Screenshot 2025-04-29 190310" src="https://github.com/user-attachments/assets/b17e1fe2-eb0f-469d-8ed1-6bd3b5e7780a" />
+
+<img width="1842" height="870" alt="Screenshot 2025-04-29 190359" src="https://github.com/user-attachments/assets/ae938b16-ea67-4454-86f2-d2f0e9398003" />
+
+<img width="1845" height="875" alt="Screenshot 2025-04-29 190413" src="https://github.com/user-attachments/assets/aabd35cf-0184-4455-9159-4ef18a92cf98" />
